@@ -4,5 +4,12 @@
 
 The game tracks scores, highlights winning combinations, and includes bonus questions for extra points. Built with **Tkinter**, it offers an engaging and educational GUI experience.
 
+**Start Page**
+![Game Screenshot](Images/Start%20TriviaTic.png)
+
+**Quiz Page**
+![Game Screenshot](Images/Quiz%20TriviaTic.png)
+
+**Tic Tac Toe Game**
 ![Game Screenshot](Images/TicTacToe%20TriviaTic.png)
 
