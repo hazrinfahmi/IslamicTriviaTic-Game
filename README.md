@@ -5,3 +5,4 @@
 The game tracks scores, highlights winning combinations, and includes bonus questions for extra points. Built with **Tkinter**, it offers an engaging and educational GUI experience.
 
 ![Game Screenshot](Images/TicTacToe TriviaTic.png)
+![simple profile page snapshot](assets/simple_profile_page_ss.png)
